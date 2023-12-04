@@ -5,7 +5,7 @@ import About from './components/About.vue'
 </script>
 
 <template>
-  <header class="bg-gray-800 text-white p-4">
+  <header class="bg-gray-800 text-white">
     <HeaderInfo />
     </header>
 
